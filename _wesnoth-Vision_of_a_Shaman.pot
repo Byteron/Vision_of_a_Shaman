@@ -1,0 +1,961 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: %F %R%z\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=Vision_of_a_Shaman
+#: _main.cfg:19
+msgid "Vision of a Shaman"
+msgstr ""
+
+#. [campaign]: id=Vision_of_a_Shaman
+#: _main.cfg:20
+msgid "Voas"
+msgstr ""
+
+#. [campaign]: id=Vision_of_a_Shaman
+#: _main.cfg:23
+msgid ""
+"This campaign tells the story of how the Thelians made their first steps outside their usual territory and how they met their first allies.\n"
+"\n"
+"(Novice level, 8 scenarios.)"
+msgstr ""
+
+#. [campaign]: id=Vision_of_a_Shaman
+#: _main.cfg:28
+msgid "Story"
+msgstr ""
+
+#. [campaign]: id=Vision_of_a_Shaman
+#: _main.cfg:28
+msgid "(easy)"
+msgstr ""
+
+#. [campaign]: id=Vision_of_a_Shaman
+#: _main.cfg:29
+msgid "Challenging"
+msgstr ""
+
+#. [campaign]: id=Vision_of_a_Shaman
+#: _main.cfg:29
+msgid "(normal)"
+msgstr ""
+
+#. [campaign]: id=Vision_of_a_Shaman
+#: _main.cfg:30
+msgid "Nightmare"
+msgstr ""
+
+#. [campaign]: id=Vision_of_a_Shaman
+#: _main.cfg:30
+msgid "(hard)"
+msgstr ""
+
+#. [scenario]: id=01_strangers
+#: scenarios/01_strangers.cfg:5
+msgid "Strangers"
+msgstr ""
+
+#. [part]
+#: scenarios/01_strangers.cfg:16
+msgid "It all began with a vision. Usually, only the oldest of the vilkish shamans received embassies from their ancestors, but in this night the young Mahun tossed and turned, receiving pictures and sounds antecedets sent him. He covered far distances and days passed by within seconds."
+msgstr ""
+
+#. [part]
+#: scenarios/01_strangers.cfg:19
+msgid "The first part of the vision dragged him to the borders of the forests, where strong orcs were kept captured by a group of humans. Mahun could the atrocious laughing of a man who was beating the imprisoned while they got dragged off the woods."
+msgstr ""
+
+#. [part]
+#: scenarios/01_strangers.cfg:22
+msgid "Mahun was torn away as well and the sun rose and sank again while he saw invisible powers rutting through the lands, but he was to dizzy to be able to count days, before he stopped again, finding himself in front of an old reeking dwarven castle. To his feet a dying dwarf, who appeared strangely familiar to Mahun, even though he had never met him before."
+msgstr ""
+
+#. [part]
+#: scenarios/01_strangers.cfg:25
+msgid "Again the young shaman was pulled away from the scene and saw a fortress, surrounded by water and guarded by humans and elves. Through unopened doors, he could see the dungeons of the fortress, where orcs and dwaves were imprisoned, torchered and tied onto walls. That view dwelled shortly, then time and location changed again."
+msgstr ""
+
+#. [part]
+#: scenarios/01_strangers.cfg:28
+msgid "The sun passed by a thousand times while he was pulled back to his home and when he saw the familiar forests, he scared out of sleep. But the pictures of burning, dying trees and the sound of suffering screams, echoing through the forests, dwelled in his mind after the vision."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/01_strangers.cfg:46
+msgid "Defeat Haddad"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_strangers.cfg:51 scenarios/02_liberation.cfg:41 scenarios/02_liberation.cfg:339 scenarios/02_liberation.cfg:367 scenarios/02_liberation.cfg:448 scenarios/04_fighting_orcs.cfg:27 scenarios/06_siege_of_antoria.cfg:30 scenarios/07_shadows_of_the_mountains.cfg:37 scenarios/08_battle_of_lakeshore.cfg:25 scenarios/08_silniel.cfg:25 scenarios/09_homecoming.cfg:25
+msgid "Death of Hennak"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_strangers.cfg:55 scenarios/02_liberation.cfg:45 scenarios/02_liberation.cfg:343 scenarios/02_liberation.cfg:371 scenarios/02_liberation.cfg:452 scenarios/04_fighting_orcs.cfg:31 scenarios/06_siege_of_antoria.cfg:34 scenarios/07_shadows_of_the_mountains.cfg:41 scenarios/08_silniel.cfg:29 scenarios/09_homecoming.cfg:29
+msgid "Death of Mahun"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_strangers.cfg:59 scenarios/02_liberation.cfg:49 scenarios/04_fighting_orcs.cfg:35 scenarios/06_siege_of_antoria.cfg:38 scenarios/07_shadows_of_the_mountains.cfg:45 scenarios/08_battle_of_lakeshore.cfg:29 scenarios/08_silniel.cfg:33 scenarios/09_homecoming.cfg:33
+msgid "Death of Aela"
+msgstr ""
+
+#. [side]
+#: scenarios/01_strangers.cfg:82 scenarios/02_liberation.cfg:75 scenarios/03_tarmak.cfg:25 scenarios/04_fighting_orcs.cfg:62 scenarios/05_barag_gor.cfg:24 scenarios/06_siege_of_antoria.cfg:62 scenarios/07_shadows_of_the_mountains.cfg:67 scenarios/08_battle_of_lakeshore.cfg:55 scenarios/08_silniel.cfg:51 scenarios/09_homecoming.cfg:51 scenarios/10_epiloque.cfg:39 utils/characters.cfg:9
+msgid "Hennak"
+msgstr ""
+
+#. [side]
+#: scenarios/01_strangers.cfg:119 utils/characters.cfg:215
+msgid "Thodd"
+msgstr ""
+
+#. [side]
+#: scenarios/01_strangers.cfg:120 utils/characters.cfg:151
+msgid "Moruk"
+msgstr ""
+
+#. [side]
+#: scenarios/01_strangers.cfg:121 utils/characters.cfg:251
+msgid "Sloan"
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/01_strangers.cfg:133
+msgid "Are you sure it was not just a dream? The older shamans did not seem to be convinced."
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/01_strangers.cfg:137
+msgid "They are stubborn and feel threatened. They have not even listened to me. But when we find the captured orcs here…"
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/01_strangers.cfg:141
+msgid "If we find them. Are you sure that this is the right place?"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/01_strangers.cfg:145
+msgid "I definitely saw this place and I know the forests just as good as you do."
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/01_strangers.cfg:149
+msgid "And how long do we have to wonder around here? If anyone would have been captured here, they surely would scream."
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/01_strangers.cfg:153
+msgid "Not, if they are orcs. Do you not remember the stories? They are warriors and not the nicest. Maybe it would not even be a good idea to help them…"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/01_strangers.cfg:157
+msgid "They were victims,  threatened by humans in my vision. And the stories are old, centuries old. Maybe the orcs have changed, like we did."
+msgstr ""
+
+#. [message]: speaker=Luna
+#: scenarios/01_strangers.cfg:164
+msgid "*snarling*"
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/01_strangers.cfg:168
+msgid "What is it, Luna?"
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/01_strangers.cfg:172
+msgid "It seems like you have not just dreamed, Mahun. There are humans. And they have capured orcs with robes."
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/01_strangers.cfg:176
+msgid "Shamans."
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/01_strangers.cfg:180
+msgid "Do you think that is why you have received a vision? Was it a call for help?"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/01_strangers.cfg:184
+msgid "No, the visions are sent by our ancestors, not by strangers. But we will save them."
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/01_strangers.cfg:188
+msgid "Maybe we sould try-"
+msgstr ""
+
+#. [message]: speaker=Haddad
+#: scenarios/01_strangers.cfg:192
+msgid "Pah! Look what we got here!"
+msgstr ""
+
+#. [message]: speaker=Haddad
+#: scenarios/01_strangers.cfg:196
+msgid "Thodd, bring this offscum to Gideon."
+msgstr ""
+
+#. [message]: speaker=Thodd
+#: scenarios/01_strangers.cfg:200
+msgid "Yes, Sir."
+msgstr ""
+
+#. [message]: speaker=Haddad
+#: scenarios/01_strangers.cfg:224
+msgid "I will crush those wildlings into peaces!"
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/01_strangers.cfg:228
+msgid "That, we will see! Let us go! We hunt bears, some morons in armory sould not be much of a problem!"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/01_strangers.cfg:239
+msgid "We should hurry. I am not sure how much time is left, to outrun them!"
+msgstr ""
+
+#. [message]: speaker=Haddad
+#: scenarios/01_strangers.cfg:255
+msgid "Ouch.. defeated .. by some.. wildlings"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/01_strangers.cfg:270
+msgid "Finally! That took us too much time."
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/01_strangers.cfg:274
+msgid "We should go back tell the elders about what happened here."
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/01_strangers.cfg:278
+msgid "There is no time for that, if we want to save the orcs. Like Mahun said: It already took us too much time."
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/01_strangers.cfg:282
+msgid "But it is too dangerous for us, to follow those people!"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/01_strangers.cfg:286
+msgid "Nobody will upbraid you if you want to stay, Aela. You can spread the word in our village, if you do not want to accompany us."
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/01_strangers.cfg:290
+msgid "… No, I will come with you. We go through adventures together since we were children, I will not turn from that now."
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/01_strangers.cfg:294
+msgid "That is the spirit! Hurry up, then! Let us save orcs!"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/01_strangers.cfg:339
+msgid "It has been three days now till they left with the shamans. There is no way to catch up with them."
+msgstr ""
+
+#. [scenario]: id=02_liberation
+#: scenarios/02_liberation.cfg:5
+msgid "Liberation"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_liberation.cfg:36 scenarios/04_fighting_orcs.cfg:22 scenarios/06_siege_of_antoria.cfg:26 scenarios/07_shadows_of_the_mountains.cfg:32 scenarios/08_battle_of_lakeshore.cfg:20 scenarios/08_silniel.cfg:20 scenarios/09_homecoming.cfg:20
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_liberation.cfg:53 scenarios/02_liberation.cfg:347 scenarios/02_liberation.cfg:375 scenarios/02_liberation.cfg:456 scenarios/06_siege_of_antoria.cfg:42 scenarios/08_battle_of_lakeshore.cfg:33
+msgid "Death of Mordin"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/02_liberation.cfg:213
+msgid "There it is."
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/02_liberation.cfg:217
+msgid "It seems like we arrived here right in time."
+msgstr ""
+
+#. [message]: speaker=Thodd
+#: scenarios/02_liberation.cfg:221
+msgid "Who of you half-pints is Mordin?"
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/02_liberation.cfg:225
+msgid "<span size='small' font-style='italic'>calm</span>I am Mordin. Tell me, what do you want and why do you hold orcs captured? They are our allies and I cannot allow you to pass without an explanation!"
+msgstr ""
+
+#. [message]: speaker=Thodd
+#: scenarios/02_liberation.cfg:229
+msgid "You are lucky, little man. You are the only dwarf Gideon wants alive. Attack!"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/02_liberation.cfg:233
+msgid "They will not stand a chance alone!"
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/02_liberation.cfg:237
+msgid "Than it is a good thing that they are not. We will help them!"
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/02_liberation.cfg:241
+msgid "We are just a few! We should have got reinforcements from home."
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/02_liberation.cfg:245
+msgid "It is too late for that. We have the dwarves on our side and we can surround those armor bearers!"
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/02_liberation.cfg:249
+msgid "More humans?"
+msgstr ""
+
+#. [message]: speaker=Thodd
+#: scenarios/02_liberation.cfg:253
+msgid "Haddad failed! Then we will defeat the wildings as well!"
+msgstr ""
+
+#. [message]: speaker=Eloin
+#: scenarios/02_liberation.cfg:313
+msgid "They still fight. Paltry. How can it take that long to defeat a village, whos guardians just have half the size of us."
+msgstr ""
+
+#. [message]: speaker=Thodd
+#: scenarios/02_liberation.cfg:318
+msgid "There you are! Help us defeating those halflings and their wildish friends!"
+msgstr ""
+
+#. [message]: speaker=Eloin
+#: scenarios/02_liberation.cfg:323
+msgid "Onto the Battle, my friends! Let us show our allies, why they should be thankful that we are with them!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_liberation.cfg:334 scenarios/02_liberation.cfg:362 scenarios/02_liberation.cfg:443
+msgid "Defeat all enemies"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_liberation.cfg:379 scenarios/02_liberation.cfg:460
+msgid "Death of a Shaman"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_liberation.cfg:430
+msgid "Let me set you free."
+msgstr ""
+
+#. [message]: speaker=Vroul
+#: scenarios/02_liberation.cfg:434
+msgid "Who are you? What are you doing here?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_liberation.cfg:438
+msgid "We are vilkai and here to help, but the battle is all around us. We need to stay wary. Come with me!"
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/02_liberation.cfg:549
+msgid "I thank you for your help. I am Mordin, Son of Hrothgar, Lord of these estates."
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/02_liberation.cfg:553
+msgid "My name is Hennak, warrior of the vilkai. These are Mahun and Aela."
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/02_liberation.cfg:557
+msgid "Greetings."
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/02_liberation.cfg:561
+msgid "It is an honor to meet you."
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/02_liberation.cfg:565
+msgid "You freed the orcish shamans. Are you a friend of the orcs? Kapou’e made a lot of friends. But also enemies… obviously."
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/02_liberation.cfg:569
+msgid "My people live deep in the forests. We do not have much to do with others."
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/02_liberation.cfg:573
+msgid "To be specific, you should be the first leader of another race, with whom we get in touch with in this generation."
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/02_liberation.cfg:577
+msgid "Then I hope, we will develop a peaceful relationship. But I am not a leader as powerful as Kapou’e. He united most if the ork. I just rule over a few villages."
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/02_liberation.cfg:581
+msgid "But tell me, why did you help the orcs, when you usually do not interfere with the fate of the world?"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/02_liberation.cfg:585
+msgid "I had a vision, which led us to them, And to this place."
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/02_liberation.cfg:589
+msgid "A vision you say. Well, you will know what you are doing…"
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/02_liberation.cfg:593
+msgid "He saw the destruction of this village and a bigger threat to our people in his vision. Do you know why you were attacked?"
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/02_liberation.cfg:597
+msgid "Why? No. But I know by who. Their leader mentioned a name, Gideon. He is a warlord and he lives in a big keep beyond the mountains to the east. There were rumors for a while now that he raise an army. But we did not have any proof of that hostile behaviour. That has changed today."
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/02_liberation.cfg:601
+msgid "Then we will trek to the east and bring him to justice!"
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/02_liberation.cfg:605
+msgid "That would be insane! He has an army!"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/02_liberation.cfg:609
+msgid "Aela is right. We need allies, to fight an enemy like that."
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/02_liberation.cfg:613
+msgid "<span size='small' font-style='italic'>laut</span> Dorin!"
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/02_liberation.cfg:625
+msgid "This is Dorin, my third cousin. He is a bit bearish but his heart is in the right place. He is supposed to head out, soliciting reinforcements from Kapou’e for the fight against this new enemy. Escort him and with a bit of luck, you will have your allies. I have to get back to Antoria. I need to protect the city in case we get attacked."
+msgstr ""
+
+#. [message]: speaker=Vroul
+#: scenarios/02_liberation.cfg:634
+msgid "You will fare to Barag Gor? Our home, Tarmak, is almost on your way. I do not want to overcharge you and you already saved us…"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/02_liberation.cfg:638
+msgid "If it is near by, it will not be a Problem, right, Hennak?"
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/02_liberation.cfg:642
+msgid "Sure. We do not want you to get captured again, do we? And we well escort you cousin to Barag Gor, Mordin. We will leave at sunset."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_liberation.cfg:697
+msgid "The vilkai were on time to fight abreast with the dwarves, but even with their support, the village could not be saved."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_liberation.cfg:721
+msgid "The vilkai caught up with the shamans and freed them, but when $unit.name died, Mahun could feel that he had failed and the atrocious future was set for his homeland."
+msgstr ""
+
+#. [scenario]: id=03_tarmak
+#: scenarios/03_tarmak.cfg:5
+msgid "Tarmak"
+msgstr ""
+
+#. [side]
+#: scenarios/03_tarmak.cfg:35 utils/characters.cfg:119
+msgid "Gwaba"
+msgstr ""
+
+#. [side]
+#: scenarios/03_tarmak.cfg:39
+msgid "Flokk"
+msgstr ""
+
+#. [message]: role=Arcanist
+#: scenarios/03_tarmak.cfg:96
+msgid "… and this is how we can form energetic blades with arcane magic."
+msgstr ""
+
+#. [message]: speaker=Nobu
+#: scenarios/03_tarmak.cfg:100
+msgid "It sure took a lot of practicing. I never thought of using magic like that in close combat."
+msgstr ""
+
+#. [message]: speaker=Flokk
+#: scenarios/03_tarmak.cfg:104
+msgid "Stop! Who are you! What do you want!"
+msgstr ""
+
+#. [message]: speaker=Flokk
+#: scenarios/03_tarmak.cfg:111
+msgid "Vroul? Nobu? Why are these people with you? What happened?"
+msgstr ""
+
+#. [message]: speaker=Vroul
+#: scenarios/03_tarmak.cfg:115
+msgid "Keep your head, Flokk. These people saved us. Let us go to Gwaba, then we will tell our story."
+msgstr ""
+
+#. [message]: speaker=Flokk
+#: scenarios/03_tarmak.cfg:119
+msgid "Are you sure they are not dangerous?"
+msgstr ""
+
+#. [message]: speaker=Nobu
+#: scenarios/03_tarmak.cfg:123
+msgid "They are not like those people who inprisoned us. I do trust them."
+msgstr ""
+
+#. [message]: speaker=Flokk
+#: scenarios/03_tarmak.cfg:127
+msgid "Fine. Follow me then, I will lead the way to our leader"
+msgstr ""
+
+#. [message]: speaker=Flokk
+#: scenarios/03_tarmak.cfg:148
+msgid "Gwaba, I brought-"
+msgstr ""
+
+#. [message]: speaker=Gwaba
+#: scenarios/03_tarmak.cfg:152
+msgid "Nobu! Moruk! Vroul! Are you hurt? What happened?"
+msgstr ""
+
+#. [message]: speaker=Vroul
+#: scenarios/03_tarmak.cfg:156
+msgid "We are doing well, Gwaba. Some people got captured us."
+msgstr ""
+
+#. [message]: speaker=Nobu
+#: scenarios/03_tarmak.cfg:160
+msgid "Hennak and his friends freed and escorted us here. "
+msgstr ""
+
+#. [message]: speaker=Gwaba
+#: scenarios/03_tarmak.cfg:164
+msgid "Many Thanks. I will let someone kill an ox for you, if you wish."
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/03_tarmak.cfg:168
+msgid "Your offer is generous, but can not stay here for long. Our friend Dorin here is on his way to Barag Gor on behalf of his lord. We promised to escord him and it is urgent."
+msgstr ""
+
+#. [message]: speaker=Dorin
+#: scenarios/03_tarmak.cfg:172
+msgid "Yes .. Sir. The kidnapper .. of your shamans were send by Gideon. It seems that .. he gathers Humans and Elves .. to move to the battle against Black-Eyes son."
+msgstr ""
+
+#. [message]: speaker=Gwaba
+#: scenarios/03_tarmak.cfg:176
+msgid "I see. Do not let me stop you then. But be careful on your way, not all of my people are friendly. "
+msgstr ""
+
+#. [scenario]: id=04_fighting_orcs
+#: scenarios/04_fighting_orcs.cfg:5
+msgid "Fighting Orcs"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/04_fighting_orcs.cfg:39
+msgid "Death of Dorin"
+msgstr ""
+
+#. [message]: speaker=Dorin
+#: scenarios/04_fighting_orcs.cfg:161
+msgid "We .. are almost there, Barag Gor is not .. far from here."
+msgstr ""
+
+#. [message]: speaker=Tazgosh
+#: scenarios/04_fighting_orcs.cfg:165
+msgid "Keh! Humans. And even some dwarves, keh!"
+msgstr ""
+
+#. [message]: speaker=Dorin
+#: scenarios/04_fighting_orcs.cfg:169
+msgid "We are .. not your enemy. Just travelling through to .. your sovereign .. Kapou’e, to-"
+msgstr ""
+
+#. [message]: speaker=Tazgosh
+#: scenarios/04_fighting_orcs.cfg:173
+msgid "Keh! Kapou’e es not my sovereign! I am my own master, and everyone is my enemy, keh!"
+msgstr ""
+
+#. [message]: speaker=Mahun
+#: scenarios/04_fighting_orcs.cfg:177
+msgid "Mordin was right. Not all orcs are lead by Kapou’e. I guess we have to fight…"
+msgstr ""
+
+#. [message]: speaker=Hennak
+#: scenarios/04_fighting_orcs.cfg:181
+msgid "Tell me, Dorin. Did you wield your axe in a battle before?"
+msgstr ""
+
+#. [message]: speaker=Dorin
+#: scenarios/04_fighting_orcs.cfg:185
+msgid ".. Sure. We .. will fight on your side."
+msgstr ""
+
+#. [message]: speaker=Tazgosh
+#: scenarios/04_fighting_orcs.cfg:215
+msgid "I better retreat. But I will come back with reinforcements!"
+msgstr ""
+
+#. [scenario]: id=05_barag_gor
+#: scenarios/05_barag_gor.cfg:5
+msgid "Barag Gor"
+msgstr ""
+
+#. [scenario]: id=06_siege_of_antoria
+#: scenarios/06_siege_of_antoria.cfg:5
+msgid "Battle of Antoria"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/06_siege_of_antoria.cfg:20
+msgid "Resist until the end of the turns"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/06_siege_of_antoria.cfg:26
+msgid "(special bonus)"
+msgstr ""
+
+#. [scenario]: id=07_shadows_of_the_mountains
+#: scenarios/07_shadows_of_the_mountains.cfg:5
+msgid "Shadows of the Mountains"
+msgstr ""
+
+#. [part]
+#: scenarios/07_shadows_of_the_mountains.cfg:16
+msgid "After the forces of Mordin, Gwaba, Torok and Graugh came together, they decided to bring the battle right to the enemy. Gideon, the leader of the enemies forces, had his Fortress beyond the Mountains to the east. As they crossed a Mountain pass, a dense fog came up…"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/07_shadows_of_the_mountains.cfg:26
+msgid "Move Hennak to the signpost in the southeast"
+msgstr ""
+
+#. [side]
+#: scenarios/07_shadows_of_the_mountains.cfg:89 utils/characters.cfg:400
+msgid "Gre-Ress"
+msgstr ""
+
+#. [side]
+#: scenarios/07_shadows_of_the_mountains.cfg:107 utils/characters.cfg:409
+msgid "Hra-Mor"
+msgstr ""
+
+#. [side]
+#: scenarios/07_shadows_of_the_mountains.cfg:124 utils/characters.cfg:418
+msgid "Le-Gath"
+msgstr ""
+
+#. [side]
+#: scenarios/07_shadows_of_the_mountains.cfg:141 utils/characters.cfg:427
+msgid "Sageth"
+msgstr ""
+
+#. [message]: speaker=Aela
+#: scenarios/07_shadows_of_the_mountains.cfg:199
+msgid "Did you see that?"
+msgstr ""
+
+#. [message]: speaker=Dorin
+#: scenarios/07_shadows_of_the_mountains.cfg:204
+msgid "There are undeads in these Mountains. We have to be careful."
+msgstr ""
+
+#. [message]: speaker=Mordin
+#: scenarios/07_shadows_of_the_mountains.cfg:209
+msgid "We do not have to defeat them. They will not follow us, once we have passed them."
+msgstr ""
+
+#. [message]: speaker=Torok
+#: scenarios/07_shadows_of_the_mountains.cfg:214
+msgid "Torok like smashing walking bones."
+msgstr ""
+
+#. [message]: speaker=Gwaba
+#: scenarios/07_shadows_of_the_mountains.cfg:219
+msgid "You can do what you want. Just do not get lost behind us. We should leave this pass as soon as possible."
+msgstr ""
+
+#. [scenario]: id=08_battle_of_lakeshore
+#: scenarios/08_battle_of_lakeshore.cfg:5
+msgid "Battle of Lakeshore"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/08_battle_of_lakeshore.cfg:37
+msgid "Death of Gwaba"
+msgstr ""
+
+#. [message]: speaker=Gideon
+#: scenarios/08_battle_of_lakeshore.cfg:257
+msgid "It takes too long. I will fight myself!"
+msgstr ""
+
+#. [scenario]: id=08_silniel
+#: scenarios/08_silniel.cfg:5 utils/characters.cfg:371
+msgid "Silniel"
+msgstr ""
+
+#. [scenario]: id=09_homecoming
+#: scenarios/09_homecoming.cfg:5
+msgid "Homecoming"
+msgstr ""
+
+#. [scenario]: id=10_voas_epiloque
+#: scenarios/10_epiloque.cfg:5
+msgid "Epiloque"
+msgstr ""
+
+#. [part]
+#: scenarios/10_epiloque.cfg:15
+msgid "epiloque."
+msgstr ""
+
+#. [unit_type]: id=Thelian Fighter, race=thelians
+#: units/human-thelians/1_Fighter.cfg:5
+msgid "Fighter"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/human-thelians/1_Fighter.cfg:26 units/human-thelians/2_Hero.cfg:26 units/human-thelians/3_Champion.cfg:27
+msgid "sword"
+msgstr ""
+
+#. [unit_type]: id=Thelian Herbalist, race=thelians
+#: units/human-thelians/1_Herbalist.cfg:5
+msgid "female^Herbalist"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/human-thelians/1_Herbalist.cfg:30 units/human-thelians/2_Sorceress.cfg:30 units/human-thelians/3_Enchantress.cfg:31
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/human-thelians/1_Herbalist.cfg:40 units/human-thelians/2_Sorceress.cfg:40 units/human-thelians/3_Enchantress.cfg:41
+msgid "entangle"
+msgstr ""
+
+#. [unit_type]: id=Thelian Hero, race=thelians
+#: units/human-thelians/2_Hero.cfg:5
+msgid "Hero"
+msgstr ""
+
+#. [unit_type]: id=Thelian Sorceress, race=thelians
+#: units/human-thelians/2_Sorceress.cfg:5
+msgid "female^Sorceress"
+msgstr ""
+
+#. [unit_type]: id=Thelian Champion, race=thelians
+#: units/human-thelians/3_Champion.cfg:5
+msgid "Champion"
+msgstr ""
+
+#. [unit_type]: id=Thelian Enchantress, race=thelians
+#: units/human-thelians/3_Enchantress.cfg:5
+msgid "female^Enchantress"
+msgstr ""
+
+#: utils/characters.cfg:22
+msgid "Luna"
+msgstr ""
+
+#: utils/characters.cfg:36
+msgid "Mahun"
+msgstr ""
+
+#: utils/characters.cfg:50
+msgid "Aela"
+msgstr ""
+
+#: utils/characters.cfg:64
+msgid "Hawk"
+msgstr ""
+
+#: utils/characters.cfg:81
+msgid "Mordin"
+msgstr ""
+
+#: utils/characters.cfg:94
+msgid "Dorin"
+msgstr ""
+
+#: utils/characters.cfg:110
+msgid "Kapou'e"
+msgstr ""
+
+#: utils/characters.cfg:127
+msgid "Vroul"
+msgstr ""
+
+#: utils/characters.cfg:139
+msgid "Nobu"
+msgstr ""
+
+#: utils/characters.cfg:164
+msgid "Torok"
+msgstr ""
+
+#: utils/characters.cfg:175
+msgid "Graugh"
+msgstr ""
+
+#: utils/characters.cfg:186
+msgid "Tazgosh"
+msgstr ""
+
+#: utils/characters.cfg:195
+msgid "Krogo"
+msgstr ""
+
+#: utils/characters.cfg:206
+msgid "Glunwan"
+msgstr ""
+
+#: utils/characters.cfg:224
+msgid "Ered"
+msgstr ""
+
+#: utils/characters.cfg:233
+msgid "Haddad"
+msgstr ""
+
+#: utils/characters.cfg:242
+msgid "Qwimby"
+msgstr ""
+
+#: utils/characters.cfg:260
+msgid "Warden"
+msgstr ""
+
+#: utils/characters.cfg:269
+msgid "Olen"
+msgstr ""
+
+#: utils/characters.cfg:278
+msgid "Orrin"
+msgstr ""
+
+#: utils/characters.cfg:287
+msgid "Ivard"
+msgstr ""
+
+#: utils/characters.cfg:296
+msgid "Lyedd"
+msgstr ""
+
+#: utils/characters.cfg:305
+msgid "Tremus"
+msgstr ""
+
+#: utils/characters.cfg:314
+msgid "Gideon"
+msgstr ""
+
+#: utils/characters.cfg:326
+msgid "Laenir"
+msgstr ""
+
+#: utils/characters.cfg:335
+msgid "Velon"
+msgstr ""
+
+#: utils/characters.cfg:344
+msgid "Eloin"
+msgstr ""
+
+#: utils/characters.cfg:353
+msgid "Elnir"
+msgstr ""
+
+#: utils/characters.cfg:362
+msgid "Arandor"
+msgstr ""
+
+#: utils/characters.cfg:380
+msgid "Avaine"
+msgstr ""
+
+#: utils/characters.cfg:389
+msgid "Eloar"
+msgstr ""
+
+#: utils/deaths.cfg:7
+msgid "At least… I die in a fight."
+msgstr ""
+
+#: utils/deaths.cfg:8
+msgid "Ouch. The end of my life has been reached."
+msgstr ""
+
+#: utils/deaths.cfg:12
+msgid "I will greet… our ancestrals."
+msgstr ""
+
+#: utils/deaths.cfg:13
+msgid "My time has come."
+msgstr ""
+
+#: utils/deaths.cfg:17
+msgid "Who will… heal you now?"
+msgstr ""
+
+#: utils/deaths.cfg:18
+msgid "No!"
+msgstr ""
+
+#: utils/deaths.cfg:22
+msgid "That was a good… last hunt."
+msgstr ""
+
+#: utils/deaths.cfg:23
+msgid "Argh!"
+msgstr ""
+

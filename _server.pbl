@@ -1,0 +1,21 @@
+title="Vision of a Shaman"
+type="campaign"
+icon="attacks/curse.png"
+version="0.1.0"
+author="Bitron"
+passphrase=24325886
+description="Through 5 chapters, this campaign will tell stories about thelians, vampires and other folks in the farnorth.
+
+Chapter I: Death in Exile (not released)
+Chapter II: A Thelian Tale (7/10 playable scenarios)
+Chapter III: Inquisition (not released)
+Chapter IV: The Foil (not released)
+Chapter V: Darkest Hour (not released)"
+
+email="aaron.winter93@yahoo.de"
+
+[feedback]
+    topic_id=46134
+[/feedback]
+
+dependencies=Millenium_Era
