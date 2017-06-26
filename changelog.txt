@@ -1,3 +1,12 @@
+Version 0.1.1+dev
+
+General
+	* added Chapter I: "Death in Exile"
+		* added Scenario 1 "On the Road"
+		* added Scenario 2 "Blood of a Vampire"
+		* added Scenario 3 "Karval"
+		* added Scenario 4 "The Clash"
+
 Version 0.1.1
 
 Misc and fixes
