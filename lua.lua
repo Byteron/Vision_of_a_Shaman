@@ -1,9 +1,9 @@
---! #textdomain "Vision_of_a_Shaman"
-local _ = wesnoth.textdomain "wesnoth-Vision_of_a_Shaman"
+--! #textdomain "wesnoth-voas"
+local _ = wesnoth.textdomain "wesnoth-voas"
 
 local helper = wesnoth.require "lua/helper.lua"
 
-local _ = wesnoth.textdomain "wesnoth-Vision_of_a_Shaman"
+local _ = wesnoth.textdomain "wesnoth-voas"
 function wesnoth.wml_actions.put_to_recall_list(cfg)
    local units = wesnoth.get_units(cfg)
    for i, unit in ipairs(units) do   
